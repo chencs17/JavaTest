@@ -4,6 +4,6 @@ public class TestDemoType{
 		int min = Integer.MIN_VALUE;
 		System.out.println(max+1L);
 		System.out.println(min-(long)1);
-		System.out.println(min-(long)2);
+		System.out.println((long)min-2);
 	}
 }
