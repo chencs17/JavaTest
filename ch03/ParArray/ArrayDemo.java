@@ -6,7 +6,7 @@ public class ArrayDemo{
 		for(int i = 0; i < data.length; i++){
 			System.out.print(data[i] + ",");
 		}
-		System.out.println();
+		System.out.println();//换行
 	}
 
 	/**
